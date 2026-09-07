@@ -9,5 +9,5 @@ class A {
         System.out.println("Unsorted Array = " + Arrays.toString(x));
     }
 
-    nums[i] - 1
+    
 }
